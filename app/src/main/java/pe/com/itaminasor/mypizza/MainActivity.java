@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private Button ordenarButton;
 
     //HOLA
-    //INAMINADOR ESTUVO X AQUI.
+    //INAMINADOR ESTUVO X AQUI...
 
 
     //private String[] pizzasDesc = {"Seleccione","Americana","Pepperoni","Hawaiana","Meat Lover"};
